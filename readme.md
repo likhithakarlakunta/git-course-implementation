@@ -1,3 +1,7 @@
-this is a markdown tecnique or concept in git to make a document beautiful
-author=likhitha
-organization = New Horizon College Of Engineering 
+# Git Course Demo
+
+This is a markdown technique or concept in Git to make a document beautiful.
+
+Author: Likhitha
+
+Organization: New Horizon College of Engineering
